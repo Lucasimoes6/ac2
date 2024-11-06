@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.clear_all {
+    display: flex;
+    justify-content: center;
+}
+
+.btncadastrar {
+    padding: 10px;
+    border-radius: 10px;
+    width: 500px;
+    border: 1px solid gray;
+}
+
+#botaocadastro {
+    width: 92px;
+}
+
+.card {
+    width: 200px; 
+    height: auto; 
+}
+
+#card .col-md-4 {
+    display: flex;
+    max-width: 25%;
+}
